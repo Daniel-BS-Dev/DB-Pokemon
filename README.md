@@ -20,7 +20,7 @@ E, no caso em que esteja chovendo na região um pokémon elétrico (electric) de
 O pokémon mostrado deve ser aleatório e não deve aparecer duas vezes consecutivas;
 
 
-# Front end 
+# Layout Web
 
 ![Sem título](https://user-images.githubusercontent.com/81425846/151712178-b66d1592-39da-49e8-a471-c64815655f1c.png)
 ![erro](https://user-images.githubusercontent.com/81425846/151712758-2fb455c2-7d29-4764-ae68-96c227857aae.png)
