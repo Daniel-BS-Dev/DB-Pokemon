@@ -30,7 +30,7 @@ O pokémon mostrado deve ser aleatório e não deve aparecer duas vezes consecut
 # Passo a Passo de como roda a aplicação
 ### Primeira opção
 Esta página está hospedada na Netlify como o link de acesso a API OpenWeatherMap é HTTP causa um erro Mixed Content. Fazendo algumas pesquisas para solucionar o problema eu encontrei este site. Link: https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en .
-Ao ler e desativar o modo de segura voltei a rodar a aplicação novamente e funciono como esperado
+Ao ler e desativar o modo de segura voltei a rodar a aplicação novamente e funciono como esperado.
 Link da aplicação na Netlify: https://db-pokemon.netlify.app
 
 ### Segunda opção
