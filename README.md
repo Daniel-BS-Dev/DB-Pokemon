@@ -23,7 +23,7 @@ O pokémon mostrado deve ser aleatório e não deve aparecer duas vezes consecut
 # Front end 
 
 ![Sem título](https://user-images.githubusercontent.com/81425846/151712178-b66d1592-39da-49e8-a471-c64815655f1c.png)
-![erro](https://user-images.githubusercontent.com/81425846/151712185-a8de7f86-6f70-4913-b518-129404f63f19.png)
+![erro](https://user-images.githubusercontent.com/81425846/151712758-2fb455c2-7d29-4764-ae68-96c227857aae.png)
 ![seccess](https://user-images.githubusercontent.com/81425846/151712188-51cfa320-9a55-4055-8c43-67860c631f26.png)
 
 
