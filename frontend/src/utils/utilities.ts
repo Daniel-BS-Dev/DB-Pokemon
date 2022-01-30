@@ -1,4 +1,4 @@
-import { Weather } from '../../types/type';
+import { Weather } from "../types/type";
 
 export function converterTemp (temperature: number){
    return Math.round(temperature - 273);
