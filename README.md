@@ -34,9 +34,7 @@ ao ler e desativar o modo de segura voltei a rodar a aplicação novamente e fun
 Link da aplicação na Netlify: https://db-pokemon.netlify.app
 
 ### Segunda opção
-  Instale o yarn na versão 1.22.5 e o nodejs na versão 16.13.1. Faça um clone deste projeto usando o comando git clone. Veja esta página de como fazer um clone de um projeto no   git Link: https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository. dentro da pasta frontend rode o projeto com o comando 'yarn start' usando o prompt de comando da sua máquina ou no terminal do git bash
-
-
+  Instale o yarn na versão 1.22.5 e o nodejs na versão 16.13.1. Faça um clone deste projeto usando o comando git clone. Veja esta página de como fazer um clone de um projeto no   git Link: https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository. dentro da pasta frontend rode o projeto com o comando 'yarn start' usando o prompt de comando da sua máquina ou o terminal do git bash
    
 # Tecnologias Utilizadas 
 ### Front end
