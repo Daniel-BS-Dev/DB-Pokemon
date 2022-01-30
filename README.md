@@ -22,18 +22,19 @@ O pokémon mostrado deve ser aleatório e não deve aparecer duas vezes consecut
 
 # Front end 
 
-![movies](https://user-images.githubusercontent.com/81425846/149604900-9e26c8cb-a06b-4305-bf3e-f0701a84f799.png)
-![form](https://user-images.githubusercontent.com/81425846/149605286-38f53b0e-8568-4429-930d-b17f0363d467.png)
+![Sem título](https://user-images.githubusercontent.com/81425846/151712178-b66d1592-39da-49e8-a471-c64815655f1c.png)
+![erro](https://user-images.githubusercontent.com/81425846/151712185-a8de7f86-6f70-4913-b518-129404f63f19.png)
+![seccess](https://user-images.githubusercontent.com/81425846/151712188-51cfa320-9a55-4055-8c43-67860c631f26.png)
 
 
 # Passo a Passo de como roda a aplicação
-### primeira opção
-esta página está hospedada na Netlify como o link de acesso a API OpenWeatherMap é HTTP causa uma incompatibilidade com o link na Netlify q é HTTPS. Fazendo algumas pesquisas para solucionar o problema eu encontrei este site Link: https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en
+### Primeira opção
+Esta página está hospedada na Netlify como o link de acesso a API OpenWeatherMap é HTTP causa uma incompatibilidade com o Browser. Fazendo algumas pesquisas para solucionar o problema eu encontrei este site Link: https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en
 ao ler e desativar o modo de segura voltei a rodar a aplicação novamente e funciono como esperado
 Link da aplicação na Netlify: https://db-pokemon.netlify.app
 
-### segunda opção
-  instale o yarn na versão 1.22.5 e o nodejs na versão 16.13.1. Faça um clone deste projeto usando o comando git clone. Veja esta página de como fazer um clone de um projeto no   git Link: https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository. dentro da pasta frontend rode o projeto usando o comando 'yarn start' usando o prompt de comando da sua máquina ou no terminal do git bash
+### Segunda opção
+  Instale o yarn na versão 1.22.5 e o nodejs na versão 16.13.1. Faça um clone deste projeto usando o comando git clone. Veja esta página de como fazer um clone de um projeto no   git Link: https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository. dentro da pasta frontend rode o projeto com o comando 'yarn start' usando o prompt de comando da sua máquina ou no terminal do git bash
 
 
    
