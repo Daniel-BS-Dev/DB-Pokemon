@@ -3,7 +3,7 @@
 
 # Sobre o Projeto
 
-DB-Pokemon é uma aplicação Front web desenvolvida com o objetivo de consume duas API, a API  OpenWeatherMap e a API  PokéAPI. Onde o usúario pode digitar o nome de uma cidade 
+DB-Pokemon é uma aplicação Front end desenvolvida com o objetivo de consume duas API, a API  OpenWeatherMap e a API  PokéAPI. Onde o usúario pode digitar o nome de uma cidade 
 de qualquer lugar do mundo e o sistema retornará para ele, a temperatura em graus celsius, se está chovendo ou não, o tipo e o nome de um pokemon seguindo as seguintes regras:
 
 - Lugares onde a temperatura for menor (<) que 5ºC, deve-se retornar um pokémon de gelo (ice).
